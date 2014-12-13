@@ -13,6 +13,8 @@
 		697C7E021A3B965000716F88 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697C7E011A3B965000716F88 /* Images.xcassets */; };
 		697C7E051A3B965000716F88 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 697C7E031A3B965000716F88 /* LaunchScreen.xib */; };
 		697C7E111A3B965000716F88 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697C7E101A3B965000716F88 /* PostcardTests.swift */; };
+		697C7E1B1A3B9D1100716F88 /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 697C7E1A1A3B9D1100716F88 /* Bo.jpg */; };
+		697C7E1D1A3B9F3700716F88 /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 697C7E1C1A3B9F3700716F88 /* JRT.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		697C7E0A1A3B965000716F88 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		697C7E0F1A3B965000716F88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		697C7E101A3B965000716F88 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		697C7E1A1A3B9D1100716F88 /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
+		697C7E1C1A3B9F3700716F88 /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		697C7DF81A3B965000716F88 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				697C7E1A1A3B9D1100716F88 /* Bo.jpg */,
+				697C7E1C1A3B9F3700716F88 /* JRT.jpg */,
 				697C7DF91A3B965000716F88 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -161,6 +167,7 @@
 				TargetAttributes = {
 					697C7DF41A3B965000716F88 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = K3RFBWDEK9;
 					};
 					697C7E091A3B965000716F88 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -194,6 +201,8 @@
 			files = (
 				697C7E001A3B965000716F88 /* Main.storyboard in Resources */,
 				697C7E051A3B965000716F88 /* LaunchScreen.xib in Resources */,
+				697C7E1D1A3B9F3700716F88 /* JRT.jpg in Resources */,
+				697C7E1B1A3B9D1100716F88 /* Bo.jpg in Resources */,
 				697C7E021A3B965000716F88 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
